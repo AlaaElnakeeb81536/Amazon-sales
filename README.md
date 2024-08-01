@@ -11,3 +11,5 @@ style, sku, category, size, Asin, Courier status, quantity, amount, ship-city, S
 In order to analyse the data, the data to be accurate, consistent and complete to avoid skewness in further analysis. 
 I have removed blanks and unnecessary column.
 
+![image](https://github.com/user-attachments/assets/90157be5-18a3-469f-be59-0fac96ef6d94)
+
