@@ -7,16 +7,6 @@ Sales Performance by category & month, quantity by state status & size.
 Data has 24 columns which include order id, date, status, Fulfilment, Sales channel, ship-service level, 
 style, sku, category, size, Asin, Courier status, quantity, amount, ship-city, Ship-State, Ship-postal code, ship country, promotion id, B2B, Fulfilled by.
 
-## Data Transformation:
-In order to analyse the data, the data to be accurate, consistent and complete to avoid skewness in further analysis. 
-I have removed blanks and unnecessary column.
-
--Sales by category:
-The three category on the top most of theirs profit in the category. The two on the bottom saw most of their less sales in the category.
-
-
-State and City wise Sales:
-The highest sales by quantity were in Maharashtra state at 30.6%, and Bengaluru recorded the highest number of sales  as a city while the lowest number of sales was in New Delhi.
-
-![image](https://github.com/user-attachments/assets/70b5c83f-14ca-4357-b37b-eee9199ffae7)
-
+## Summary:
+The Amazon Sales dashboard gives a brief understanding about the sales of different clothing items, their price, quantity, size, ship service level and shipping city. Key insights from the dashboard reveal that in April 2022, the highest sales  were recorded in the Set category, with the top-selling items being Set, Kurta, and Western Dress, surpassing Ethnic and Traditional attire. Geographically, Maharashtra State and Bengaluru city reported the highest quantity of sales, while Lucknow city experienced significantly lower sales. 
+These sales insights highlight the potential for increased profitability by aligning clothing fashion choices with people's preferences, thereby enhancing overall sales performance.
